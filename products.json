@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "White Logo T-Shirt",
+        "feature1": "Made in America",
+        "feature2": "100% High Quality Cotton",
+        "price": 34.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Black Logo T-Shirt",
+        "feature1": "Made in America",
+        "feature2": "100% High Quality Cotton",
+        "price": 29.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Black Logo Rashguard",
+        "feature1": "Made in America",
+        "feature2": "100% High Quality Materials",
+        "price": 59.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    }
+  ]
+}
